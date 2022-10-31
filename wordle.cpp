@@ -32,7 +32,7 @@ int main(){
 						check = false;
 					}
 				}
-				if (check)
+				if (check == true)
 					cout<<"Word must be real." << endl;
 			}
 			else
